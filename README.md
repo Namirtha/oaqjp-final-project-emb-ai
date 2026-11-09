@@ -1,4 +1,6 @@
-# AI-Based Emotion Detection Application
+# Final Project
+
+## AI-Based Emotion Detection Application
 
 A web application developed using Python, Flask, and Watson NLP for sentiment analysis and emotion detection. This project analyzes customer feedback and statements to determine emotion scores (anger, disgust, fear, joy, and sadness) and identifies the dominant emotion.
 
